@@ -11,10 +11,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,4 +29,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 <!---LeetCode Topics End-->
