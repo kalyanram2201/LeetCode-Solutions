@@ -40,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -74,4 +75,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 <!---LeetCode Topics End-->
