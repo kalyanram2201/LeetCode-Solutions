@@ -65,6 +65,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3870-count-commas-in-range](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
