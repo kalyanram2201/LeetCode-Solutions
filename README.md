@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0076-minimum-window-substring](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -45,6 +46,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -111,5 +113,6 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
