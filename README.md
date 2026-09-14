@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0835-image-overlap](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1020-number-of-enclaves](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -42,6 +43,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1020-number-of-enclaves](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -72,11 +74,13 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1020-number-of-enclaves](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
+| [1020-number-of-enclaves](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -107,6 +111,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1020-number-of-enclaves](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
