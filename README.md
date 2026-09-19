@@ -98,6 +98,7 @@
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3870-count-commas-in-range](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -154,6 +155,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
