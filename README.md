@@ -76,6 +76,7 @@
 | [0032-longest-valid-parentheses](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0076-minimum-window-substring](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0115-distinct-subsequences/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -104,6 +105,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0994-rotting-oranges](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -209,6 +211,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
