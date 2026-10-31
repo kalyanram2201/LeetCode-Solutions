@@ -125,6 +125,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
