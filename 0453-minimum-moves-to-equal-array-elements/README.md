@@ -1,38 +1,30 @@
-[453. Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)
+<h2><a href="https://leetcode.com/problems/minimum-moves-to-equal-array-elements">453. Minimum Moves to Equal Array Elements</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code> of size <code>n</code>, return <em>the minimum number of moves required to make all array elements equal</em>.</p>
 
-Medium
+<p>In one move, you can increment <code>n - 1</code> elements of the array by <code>1</code>.</p>
 
-Given an integer array `nums` of size `n`, return the minimum number of moves required to make all array elements equal.
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-In one move, you can increment `n - 1` elements of the array by `1`.
+<pre>
+<strong>Input:</strong> nums = [1,2,3]
+<strong>Output:</strong> 3
+<strong>Explanation:</strong> Only three moves are needed (remember each move increments two elements):
+[1,2,3]  =&gt;  [2,3,3]  =&gt;  [3,4,3]  =&gt;  [4,4,4]
+</pre>
 
- 
+<p><strong class="example">Example 2:</strong></p>
 
-Example 1:
+<pre>
+<strong>Input:</strong> nums = [1,1,1]
+<strong>Output:</strong> 0
+</pre>
 
-```
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-Input: nums = [1,2,3]
-Output: 3
-Explanation: Only three moves are needed (remember each move increments two elements):
-[1,2,3]  =>  [2,3,3]  =>  [3,4,3]  =>  [4,4,4]
-
-```
-
-Example 2:
-
-```
-
-Input: nums = [1,1,1]
-Output: 0
-
-```
-
- 
-
-**Constraints:**
-
-	* `n == nums.length`
-	* `1 <= nums.length <= 10^5`
-	* `-10^9 <= nums[i] <= 10^9`
-	* The answer is guaranteed to fit in a **32-bit** integer.
+<ul>
+	<li><code>n == nums.length</code></li>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>-10<sup>9</sup> &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
+	<li>The answer is guaranteed to fit in a <strong>32-bit</strong> integer.</li>
+</ul>
