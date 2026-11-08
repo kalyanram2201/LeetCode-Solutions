@@ -12,6 +12,7 @@
 | [0994-rotting-oranges](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -93,6 +94,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1020-number-of-enclaves](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -140,6 +142,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -163,6 +166,7 @@
 | [0994-rotting-oranges](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
@@ -171,6 +175,7 @@
 | [0835-image-overlap](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0835-image-overlap/) | Medium |
 | [0994-rotting-oranges](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -234,6 +239,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1020-number-of-enclaves](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1020-number-of-enclaves/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/kalyanram2201/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
